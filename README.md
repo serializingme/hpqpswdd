@@ -13,4 +13,4 @@ csc /out:hpqpswdd.exe Program.cs Native.cs
 
 ## Licensing
 
-All code is licensed under GPLv3, see [LICENSE](https://github.com/serializingme/hpqpswdd/blob/master/LICENSE.md).
+All code is licensed under GPLv3, see [LICENSE](https://github.com/serializingme/hpqpswdd/blob/master/LICENSE).
